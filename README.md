@@ -3,21 +3,21 @@
 # Skills measured as of January 23, 2024
 
 ## Skills at a glance
-Describe cloud concepts (25–30%)
+## Describe cloud concepts (25–30%)
 
-Describe Azure architecture and services (35–40%)
+## Describe Azure architecture and services (35–40%)
 
-Describe Azure management and governance (30–35%)
+## Describe Azure management and governance (30–35%)
 
-Describe cloud concepts (25–30%)
-Describe cloud computing
-Define cloud computing
+## Describe cloud concepts (25–30%)
+## Describe cloud computing
+## Define cloud computing
 
-Describe the shared responsibility model
+### Describe the shared responsibility model
 
-Define cloud models, including public, private, and hybrid
+### Define cloud models, including public, private, and hybrid
 
-Identify appropriate use cases for each cloud model
+### Identify appropriate use cases for each cloud model
 
 Describe the consumption-based model
 
